@@ -14,6 +14,10 @@ A comprehensive resume builder application that allows users to **create, edit, 
 - 📄 **PDF Export** functionality
 - ⚡ **Lightning Fast** performance with Vite
 
+## 🔗 Connected Strapi Backend Repo
+👉 [Strapi Backend Repository](https://github.com/fldvlpr/react-ai-builder-strapi-admin)
+<br/>
+
 ## 🚀 Live Demo
 Check out the live application:
 👉 [Visit AI Resume Builder Here](https://tg-react-ai-resume-builder.netlify.app/) 
